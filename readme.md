@@ -23,3 +23,7 @@ Lists all attached OS X usb devices and their locationID.
 
 # Operating systems
 Has only been tested on osx 10.10 with OF 0.9.0
+
+
+# Links
+<http://stackoverflow.com/questions/34464672/make-a-list-of-serial-usb-device-with-specific-ids>
